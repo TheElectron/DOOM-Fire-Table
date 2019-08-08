@@ -1,0 +1,1 @@
+Código responsável por gerar a animação de fogo do jogo DOOM.
